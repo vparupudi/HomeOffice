@@ -3,5 +3,5 @@
   tasks:
   - name: httpd install
     yum: 
-     name: httpd
-     state: latest
+      name: httpd
+      state: latest
